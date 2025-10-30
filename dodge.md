@@ -1,3 +1,6 @@
+## Dodge
+
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,6 +148,7 @@ restartBtn.addEventListener('click', ()=>{
 // start game
 requestAnimationFrame(gameLoop);
 </script>
-
+```
 </body>
 </html>
+```
